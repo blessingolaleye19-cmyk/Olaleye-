@@ -1,4 +1,4 @@
-# Olaleye
-My personal portfolio website as a teacher and Salesforce admin in training
+
+My personal portfolio website as a teacher and Salesforce admin in training <p>
     Hi, I’m Blessing Olaleye Olamiposi — an educator and aspiring Salesforce Administrator from Ondo State, Nigeria. With over five years of experience teaching in the basic education sector, I’ve dedicated my career to making learning accessible and impactful for every child. Transitioning into technology through Salesforce has allowed me to explore new ways of supporting education systems and organizations in Nigeria. I am driven by the belief that education is the foundation of progress, and I’m excited to combine teaching with tech to improve access and efficiency.
       I love turning lessons into songs — sometimes with rhymes my students never forget! When I'm not in the classroom or studying Salesforce, I enjoy sharing what I learn and helping others grow.
